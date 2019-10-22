@@ -1,8 +1,7 @@
 .app {
-  display: flex;
-  width: 410px;
-  margin: auto;
-  margin-top: 40px;
-  flex-wrap: wrap;
+  margin: 2rem auto 0 auto;
+  max-width: 500px;
 }
+  
+
 
